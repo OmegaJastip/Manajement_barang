@@ -2,8 +2,7 @@
 
 ## 📱 Aplikasi Manajemen Barang
 
-Aplikasi manajemen inventaris (inventory management) berbasis Flutter yang dirancang untuk membantu pengelolaan barang dagangan secara efisien. Aplikasi ini支持 Android, iOS, dan Desktop.
-
+Aplikasi manajemen inventaris (inventory management) berbasis Flutter yang dirancang untuk membantu pengelolaan barang dagangan secara efisien.
 ---
 
 ## 🚀 Fitur Utama
